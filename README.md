@@ -1,5 +1,5 @@
 # SDA Ganjil 2024/2025
-Repository to store my pas lab solutions. If YOU consider this repo helpful, feel free to give a star⭐
+Repository to store my past lab solutions. If YOU consider this repo helpful, feel free to give a star⭐
 
 ## Lab Results
 | Lab | Nilai |
@@ -17,3 +17,13 @@ Repository to store my pas lab solutions. If YOU consider this repo helpful, fee
 
 ## Cat vs Cat
 ![cat](https://www.wvnstv.com/wp-content/uploads/sites/76/2023/02/image0-1.gif)
+
+## Quick Guide
+
+### 1. Clone this repo
+```bash
+git clone https://github.com/TheoKevH/SDA24-25.git
+```
+
+### 2. That's it🙏
+You have successfully downloaded all of my lab files.
