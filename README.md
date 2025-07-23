@@ -1,7 +1,7 @@
 # SDA Odd Sem. 2024/2025
 Repository to store my past lab and TP solutions. You can view my solutions and get the general idea on how to solve SDA problems. Scoring was done on SCELE/Aren. If YOU consider this repo helpful, feel free to give it a star⭐
 
-![hello](https://www.whoa.in/download/hello-gifs--hi-gifs---funny-hello-gifs---get-the-best-gif-on-giphy)
+![hello](/assets/penguin.gif)
 
 ### Lab Results
 | Lab | Score | Lab | Score | 
