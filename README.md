@@ -6,17 +6,17 @@ Repository to store my past lab and TP solutions. You can view my solutions and 
 ### Lab Results
 | Lab | Score | Lab | Score | 
 | -- | -- | -- | -- |
-| [Lab 1](Lab1.java) | 100 | [Lab 5](Lab5.java) | 100 |
-| [Lab 2](Lab2.java) | 100 | [Lab 6](Lab6.java) | 100 |
-| [Lab 3](Lab3.java) | 100 | [Lab 7](Lab7.java) | 100 |
-| [Lab 4](Lab4.java) | 100 | [Lab 8](Lab8.java) | 100 |
+| [Lab 1](Solusi/Lab1.java) | 100 | [Lab 5](Solusi/Lab5.java) | 100 |
+| [Lab 2](Solusi/Lab2.java) | 100 | [Lab 6](Solusi/Lab6.java) | 100 |
+| [Lab 3](Solusi/Lab3.java) | 100 | [Lab 7](Solusi/Lab7.java) | 100 |
+| [Lab 4](Solusi/Lab4.java) | 100 | [Lab 8](Solusi/Lab8.java) | 100 |
 
 ### TP Results
 | TP | Score |
 | -- | -- |
-| [TP1](TP1.java) | 100 |
-| [TP2](TP2.java) | 100 |
-| [TP3](TP3.java) | 100 |
+| [TP1](Solusi/TP1.java) | 100 |
+| [TP2](Solusi/TP2.java) | 100 |
+| [TP3](Solusi/TP3.java) | 100 |
 
 ## Quick Guide
 
